@@ -116,11 +116,17 @@ For all endpoints, a successful response will look like this:
 📂 Project Structure
 PROJECTSESI4/
 ├── node_modules/       # Node.js dependencies directory
+
 ├── uploads/            # Temporary folder for uploaded files (automatically deleted)
+
 ├── .env                # File to store environment variables (API Key)
+
 ├── index.js            # Main Express server and API logic file
+
 ├── package-lock.json   # Dependency version lock
+
 ├── package.json        # Project information and dependency list
+
 └── README.md           # You are reading it :)
 
 Made with ❤️ by Raihan Muhammad Rafi
